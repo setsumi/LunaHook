@@ -1,7 +1,7 @@
 # LunaHook
 
 
-### <a href="./LICENSE"><img src="https://img.shields.io/github/license/HIllya51/LunaHook"></a> <a href="https://github.com/HIllya51/LunaHook/releases"><img src="https://img.shields.io/github/v/release/HIllya51/LunaHook?color=ffa"></a>
+### <a href="https://github.com/setsumi/LunaHook/releases"><img src="https://img.shields.io/github/v/release/setsumi/LunaHook"></a>
 
 ### [Discord](https://discord.com/invite/ErtDwVeAbB) 
 
@@ -11,7 +11,7 @@
 
 ## 下载
 
-在github [release](https://github.com/HIllya51/LunaHook/releases)中下载
+在github [release](https://github.com/setsumi/LunaHook/releases)中下载
 
 选择所使用的语言下载相应的zip
 
@@ -19,14 +19,10 @@
 
 ## 插件
 
-在[release](https://github.com/HIllya51/LunaHook/releases)中下载plugin32或plugin64
+在[release](https://github.com/setsumi/LunaHook/releases)中下载plugin32或plugin64
 
 兼容Textractor插件
 
 由于LunaHost32和LunaHost64都可以注入到32位和64位游戏，因此实际上你仅需使用LunaHost32和LunaHost64中的一个，且仅需下载plugin32和plugin64中的一个。
-
-## 支持作者
-
-若觉得软件对你有帮助，欢迎成为我的[sponsor](https://patreon.com/HIllya51) <!--或请我一杯[咖啡](https://ko-fi.com/HIllya51)-->。感谢~
 
 <img src="https://p.inari.site/guest/24-04/21/6624ee26d3093.png" alt="屏幕截图 2024-03-29 212522.png" title="屏幕截图 2024-03-29 212522.png" />
